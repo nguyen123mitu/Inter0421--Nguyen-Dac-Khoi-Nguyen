@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    color: #006600;
+}
+.text{
+    text-decoration: underline black;
+    color: #0000ff;
+}
+.text-decoration{
+    text-align: center;
+    font-style: revert;
+    background-color: hotpink;
+    color: #ff3399;
+}
+div{
+    text-align: center;
+    background-color: antiquewhite;
+}
+hr{
+    width: 30%;
+}
+.a{
+color: cornflowerblue;
+}
+.b{
+color: blueviolet;
+}
+.c{
+color: darkorchid;
+}

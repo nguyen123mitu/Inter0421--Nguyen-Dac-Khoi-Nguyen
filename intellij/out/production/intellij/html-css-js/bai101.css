@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-decoration: underline black;
+}
+p.bold{
+    font-weight: bold;
+}
+p.center-pill{
+    text-align:  center;
+}
+ 
